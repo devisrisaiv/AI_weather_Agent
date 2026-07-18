@@ -1,0 +1,7 @@
+gradio
+fastapi
+flask
+google-generativeai
+pandas
+numpy
+uvicorn
